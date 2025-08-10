@@ -1,4 +1,4 @@
-<p align="center">Hello World!!<br>I'm Judith – also known as Julz – and I'm 27 years old!<br>With a background in business administration and a Master’s degree in Business Management, I bring a strategic mindset to the world of software development. After completing my commercial training and gaining leadership experience in a consulting company, I decided to expand my skill set and pursue my passion for web development. I find joy in creating intuitive user interfaces and building solutions that make an impact.</p>
+<p align="center"><b>Hello World!!</b><br>I'm Judith – also known as Julz – and I'm 27 years old!<br>With a background in business administration and a Master’s degree in Business Management, I bring a strategic mindset to the world of software development. After completing my commercial training and gaining leadership experience in a consulting company, I decided to expand my skill set and pursue my passion for web development. I find joy in creating intuitive user interfaces and building solutions that make an impact.</p>
 
 ###
 
